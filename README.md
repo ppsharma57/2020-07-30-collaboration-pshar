@@ -15,4 +15,11 @@ Git Collaboration
 - talked switch/checkout <branch_name>
 
 
+#Branch 2 Practice
+- make sure of pull request
+- code comapre
+- merge
+- delete branch after merge
+
+
 
