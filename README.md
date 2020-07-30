@@ -2,6 +2,6 @@
 Git Collaboration
 
 - git clone <url>
-- make sure you dont one repository into another repository
+- make sure you dont nest one repository into another repository
 - just like git init, only do this one per repo
 
